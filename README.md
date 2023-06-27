@@ -1,4 +1,4 @@
-### Olá, seja bem-vinde ao meu Github 
+### Olá, seja bem-vindo(a) ao meu Github 
 
 <div align="center">
   <a href="https://github.com/hyperzinhu">
