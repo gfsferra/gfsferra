@@ -46,7 +46,7 @@ Landing page responsiva em HTML, SCSS (arquitetura 7-1) e JavaScript, com build 
 ## Tecnologias
 
 <p>
-  <img alt="Tecnologias" src="https://skillicons.dev/icons?i=ts,js,vue,react,expo,nodejs,hono,php,laravel,cs,postgres,mysql,redis,docker,cloudflare,tailwind,sass,git,linux&perline=10">
+  <img alt="Tecnologias" src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,php,laravel,cs,postgres,mysql,redis,docker,cloudflare,tailwind,sass,git,linux&perline=9">
 </p>
 
 | Área | Ferramentas |
