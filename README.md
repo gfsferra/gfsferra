@@ -40,7 +40,7 @@ Sistema de cadastro de usuários com login Google OAuth 2.0.
 - E-mails enviados de forma assíncrona por filas no Redis; o ambiente inteiro sobe com Docker Compose.
 - Testes unitários e de API com PHPUnit no back-end e Vitest no front-end.
 
-### [ChromeOS Landing Page](https://gfsferra.github.io/chrome_os/)
+### [ChromeOS Landing Page](https://gfsferra.github.io/chrome_os/Pages/)
 Landing page responsiva em HTML, SCSS (arquitetura 7-1) e JavaScript, com build em Gulp. [Código](https://github.com/gfsferra/chrome_os)
 
 ## Tecnologias
